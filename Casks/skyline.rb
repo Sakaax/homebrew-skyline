@@ -1,10 +1,10 @@
 cask "skyline" do
   version "1.0"
-  sha256 "bfae81bd641031975e3114ec27f96ee26cc533383dda45fb4b3a2b464974b413"
+  sha256 "45a0da73fe5676ce768139e6dfd3c0983f383fccbe57e83f5c444fb0efe61203"
 
   url "https://skyline.sakaax.com/Skyline.dmg"
   name "Skyline"
-  desc "Living notch for your Mac: music, controls, windows, launchpad, ambient mode"
+  desc "Living notch for your Mac: music, controls, launchpad, ambient mode"
   homepage "https://skyline.sakaax.com/"
 
   app "Skyline.app"
