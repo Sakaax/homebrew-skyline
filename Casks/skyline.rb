@@ -1,6 +1,6 @@
 cask "skyline" do
-  version "1.2.3"
-  sha256 "646dd71fddf1c3db3b27a20021442baee73870812f686e88debd7af88f639853"
+  version "1.2.4"
+  sha256 "0f67c19a8348606ff66ab3abd989ad9772e40abd654b2fc4a506fdba35bca88c"
 
   url "https://skyline.sakaax.com/Skyline.dmg"
   name "Skyline"
